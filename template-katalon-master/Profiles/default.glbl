@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'/Data Files/Android/apps_v1.apk'</initValue>
+      <name>G_AppsAndroid</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'10'</initValue>
+      <name>G_Timeout</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'5'</initValue>
+      <name>G_ShortTimeout</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'30'</initValue>
+      <name>G_LongTimeout</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'/Data Files/IOS/apps_v1.ipa'</initValue>
+      <name>G_AppsIOS</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'/Data Files/Excel/'</initValue>
+      <name>G_ExcelPath</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
